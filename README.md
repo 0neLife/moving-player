@@ -1,17 +1,8 @@
 # moving-player
-<img align="right" src="https://github.com/0neLife/moving-player/blob/master/app/img/player.gif" hspace="20" vspace="10" width="320">
-instalation
------------
-```
-$ npm install -save-dev gulp
 
-$ npm install
+<img align="right" src="https://github.com/0neLife/moving-player/blob/master/app/img/player.gif" hspace="20" vspace="10" width="200">
 
-$ gulp
-```
-
-
-first instalation
+Run
 -----------
 ```
 $ npm install -g gulp
@@ -21,6 +12,15 @@ $ npm install -save-dev gulp
 $ npm install
 
 $ gulp
+```
+
+
+Requirements
+-----------
+```
+* Make sure you have [NodeJS] v8.11.3 or latest (http://nodejs.org/) installed.
+* Make sure you have [npm] v5.6.0 or latest (https://www.npmjs.com/) installed.
+* Make sure you have [gulpJS] (https://gulpjs.com/) installed.
 ```
 
 Dependencies list
