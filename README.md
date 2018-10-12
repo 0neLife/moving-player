@@ -19,9 +19,9 @@ $ gulp
 
 Requirements
 -----------
-* Make sure you have [NodeJS](http://nodejs.org/) v8.11.3 or latest installed.
-* Make sure you have [npm](https://www.npmjs.com/) v5.6.0 or latest installed.
-* Make sure you have [gulpJS](https://gulpjs.com/) installed.
+* [NodeJS](http://nodejs.org/) v8.11.3 or latest installed.
+* [npm](https://www.npmjs.com/) v5.6.0 or latest installed.
+* [gulpJS](https://gulpjs.com/) installed.
 
 Dependencies list
 -----------
