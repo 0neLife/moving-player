@@ -12,8 +12,8 @@ $(document).ready(function(){
 
 	var Player = {
 		sizes: {
-			width: 36,
-			height: 36
+			width: 80,
+			height: 80
 		},
 		position: {
 			top: 0,
@@ -25,8 +25,8 @@ $(document).ready(function(){
 		speed: 1.5,
 		backgroundImage: 'img/player.png',
 		shadow: {
-			width: 15,
-			height: 15
+			width: 100,
+			height: 100
 		},
 		
 		setPosition: function(pos){
