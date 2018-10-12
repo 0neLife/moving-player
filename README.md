@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/0neLife/moving-player/blob/master/app/img/player.gif" hspace="20" vspace="10" width="200">
 
->Very simple and convenient moving gameplayer with wonderful gradient backgrounds. You can moving with keyboard keys: up, down, left, right and space.
+>Very simple and convenient moving and rotate gameplayer with wonderful gradient backgrounds. Using keyboard keys: up, down, left, right and space.
 
 Run
 -----------
